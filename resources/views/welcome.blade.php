@@ -12,7 +12,7 @@
 
       
     </head>
-    <body class="">
+    <body class="bg-green-100">
         <div class="mb-4">
        <x-navbar/>
 
