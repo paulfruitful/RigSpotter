@@ -13,9 +13,10 @@
       
     </head>
     <body class="bg-green-100">
-        <div class="mb-4">
+        <div class="">
        <x-navbar/>
-
+    
        </div>
+       <x-hero/>
     </body>
 </html>
